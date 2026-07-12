@@ -1,0 +1,104 @@
+=============================
+ Currency & Unit Converter
+=============================
+1. Currency Converter
+2. Length Converter
+3. Mass Converter
+4. Temperature Converter
+5. View History
+6. Exit
+
+Enter Choice: 1
+
+Enter Source Currency: USD
+Enter Target Currency: INR
+Enter Amount: 100
+
+100.00 USD = 8350.00 INR
+
+=============================
+ Currency & Unit Converter
+=============================
+1. Currency Converter
+2. Length Converter
+3. Mass Converter
+4. Temperature Converter
+5. View History
+6. Exit
+
+Enter Choice: 2
+
+Enter Length in Meters: 10
+
+1. Kilometers
+2. Centimeters
+3. Feet
+2
+
+1000 cm
+
+=============================
+ Currency & Unit Converter
+=============================
+1. Currency Converter
+2. Length Converter
+3. Mass Converter
+4. Temperature Converter
+5. View History
+6. Exit
+
+Enter Choice: 3
+
+Enter Mass in Kilograms: 5
+
+1. Grams
+2. Pounds
+1
+
+5000 g
+
+=============================
+ Currency & Unit Converter
+=============================
+1. Currency Converter
+2. Length Converter
+3. Mass Converter
+4. Temperature Converter
+5. View History
+6. Exit
+
+Enter Choice: 4
+
+Enter Temperature in Celsius: 25
+
+Fahrenheit : 77
+Kelvin : 298.15
+
+=============================
+ Currency & Unit Converter
+=============================
+1. Currency Converter
+2. Length Converter
+3. Mass Converter
+4. Temperature Converter
+5. View History
+6. Exit
+
+Enter Choice: 5
+
+===== Conversion History =====
+100 USD -> 8350 INR
+
+=============================
+ Currency & Unit Converter
+=============================
+1. Currency Converter
+2. Length Converter
+3. Mass Converter
+4. Temperature Converter
+5. View History
+6. Exit
+
+Enter Choice: 6
+
+Thank You!
