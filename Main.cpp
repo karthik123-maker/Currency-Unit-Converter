@@ -21,7 +21,7 @@ public:
     virtual ~Converter() {}
 };
 
-// Currency Converter
+// Currency Converter Class
 class CurrencyConverter : public Converter
 {
 private:

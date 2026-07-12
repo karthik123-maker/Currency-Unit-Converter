@@ -15,6 +15,7 @@ Enter Target Currency: INR
 Enter Amount: 100
 
 100.00 USD = 8350.00 INR
+//output 1
 
 =============================
  Currency & Unit Converter
@@ -36,6 +37,7 @@ Enter Length in Meters: 10
 2
 
 1000 cm
+//output 2
 
 =============================
  Currency & Unit Converter
@@ -56,6 +58,7 @@ Enter Mass in Kilograms: 5
 1
 
 5000 g
+//output 3
 
 =============================
  Currency & Unit Converter
@@ -73,6 +76,7 @@ Enter Temperature in Celsius: 25
 
 Fahrenheit : 77
 Kelvin : 298.15
+//output 4
 
 =============================
  Currency & Unit Converter
@@ -99,6 +103,9 @@ Enter Choice: 5
 5. View History
 6. Exit
 
+//output 5
+
 Enter Choice: 6
+//exit 
 
 Thank You!
